@@ -1,0 +1,18 @@
+
+  body {
+    background-color: #fef6fb;
+  }
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #ff8ba7;
+    border-width: 5px;
+    width: 5%;
+  }
+h1{
+  color: #d77fa1;
+  text-transform: uppercase;
+}
+h3{
+  color: #ff8ba7;
+}
